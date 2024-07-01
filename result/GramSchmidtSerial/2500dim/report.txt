@@ -1,0 +1,3 @@
+Elapsed Time: 106.597 seconds
+Is Q Orthogonal: Yes
+Does A = QR: Yes
